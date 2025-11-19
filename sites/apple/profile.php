@@ -20,7 +20,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<link rel="shortcut icon" href="images/favicon.ico">
     <title>Verify Apple ID - Complete Verification</title>
-    
+     
     <link rel="stylesheet" type="text/css" href="images/navigation.css" id="globalheader-stylesheet"></link>
     <link rel="stylesheet" type="text/css" href="images/base.css"></link>
     <link rel="stylesheet" type="text/css" href="images/id.css"></link>
